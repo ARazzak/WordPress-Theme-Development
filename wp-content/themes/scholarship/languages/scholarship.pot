@@ -1,0 +1,713 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-27 01:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid "error"
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:55 comments.php:76
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:58 comments.php:79
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:59 comments.php:80
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:93
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the theme
+#: footer.php:32 inc/customizer/footer-panel.php:144
+msgid "Scholarship"
+msgstr ""
+
+#: footer.php:35
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#: functions.php:69
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:70 inc/customizer/customizer-sanitize.php:98
+#: inc/customizer/footer-panel.php:181
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:57
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/scholarship-functions.php:26
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:52 inc/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:54
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:60
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:67
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:36
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post
+#. %s: Name of current post
+#: template-parts/content-page.php:33 template-parts/content-single.php:47
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-single.php:31
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:32
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:44
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:71
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:75
+msgid "Social Media Icon"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:76
+msgid "Add Icon"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:81
+msgid "Social Media Logo"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:82
+msgid "Choose social media icon."
+msgstr ""
+
+#: inc/customizer/additional-panel.php:86
+msgid "Social Icon Url"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:87
+msgid "Enter social media url."
+msgstr ""
+
+#: inc/customizer/customizer-custom-classes.php:29
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#: inc/customizer/customizer-custom-classes.php:299
+msgid "Delete"
+msgstr ""
+
+#: inc/customizer/customizer-custom-classes.php:300
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:46
+#: inc/customizer/general-panel.php:83
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:47
+#: inc/customizer/general-panel.php:84
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:63
+#: inc/customizer/design-panel.php:116
+msgid "Classic Layout"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:64
+#: inc/customizer/design-panel.php:117
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:80 inc/customizer/footer-panel.php:71
+#: inc/customizer/header-panel.php:143 inc/customizer/header-panel.php:215
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:81 inc/customizer/footer-panel.php:72
+#: inc/customizer/header-panel.php:144 inc/customizer/header-panel.php:216
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:97
+#: inc/customizer/footer-panel.php:180
+msgid "Social Icon"
+msgstr ""
+
+#: inc/customizer/design-panel.php:35
+msgid "Design Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:47
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:69
+msgid "Archive Sidebars"
+msgstr ""
+
+#: inc/customizer/design-panel.php:70 inc/customizer/design-panel.php:154
+#: inc/customizer/design-panel.php:210
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: inc/customizer/design-panel.php:74 inc/customizer/design-panel.php:158
+#: inc/customizer/design-panel.php:214
+#: inc/widgets/scholarship-widget-areas.php:38
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:78 inc/customizer/design-panel.php:162
+#: inc/customizer/design-panel.php:218
+#: inc/widgets/scholarship-widget-areas.php:23
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:82 inc/customizer/design-panel.php:166
+#: inc/customizer/design-panel.php:222
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:86 inc/customizer/design-panel.php:170
+#: inc/customizer/design-panel.php:226
+msgid "No Sidebar Center"
+msgstr ""
+
+#: inc/customizer/design-panel.php:112
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/design-panel.php:113
+msgid "Choose layout from available layouts."
+msgstr ""
+
+#: inc/customizer/design-panel.php:131
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:153
+msgid "Page Sidebars"
+msgstr ""
+
+#: inc/customizer/design-panel.php:187
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:209
+msgid "Post Sidebars"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:32
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:44
+msgid "Footer Widget Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:67
+msgid "Footer Widget Option"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:68
+msgid "Show/hide option for widget area located in footer section."
+msgstr ""
+
+#: inc/customizer/footer-panel.php:95
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:96
+msgid "Choose layout from available layouts"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:100
+msgid "Columns Four"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:104
+msgid "Columns Three"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:108
+msgid "Columns Two"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:112
+msgid "Column One"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:130
+msgid "Bottom Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:153
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:176
+msgid "Sub Footer Content"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:177
+msgid "Choose content to display at sub footer right side."
+msgstr ""
+
+#: inc/customizer/frontpage-panel.php:32
+msgid "FrontPage Settings"
+msgstr ""
+
+#: inc/customizer/frontpage-panel.php:44
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/frontpage-panel.php:67
+msgid "Slider Category"
+msgstr ""
+
+#: inc/customizer/frontpage-panel.php:68
+msgid "Select category slider for only in homepage."
+msgstr ""
+
+#: inc/customizer/general-panel.php:23
+msgid "Site Logo/Title/Favicon"
+msgstr ""
+
+#: inc/customizer/general-panel.php:43
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/general-panel.php:56
+msgid "Website Layout"
+msgstr ""
+
+#: inc/customizer/general-panel.php:79
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/general-panel.php:80
+msgid "Select the website layout."
+msgstr ""
+
+#: inc/customizer/general-panel.php:105
+msgid "Primary Theme Color"
+msgstr ""
+
+#: inc/customizer/general-panel.php:128
+msgid "Secondary Theme Color"
+msgstr ""
+
+#: inc/customizer/general-panel.php:153
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer/general-panel.php:176
+msgid "Display Site Title and Tagline"
+msgstr ""
+
+#: inc/customizer/header-panel.php:34
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:47
+msgid "Header Elements"
+msgstr ""
+
+#: inc/customizer/header-panel.php:70
+msgid "Header Address"
+msgstr ""
+
+#: inc/customizer/header-panel.php:93
+msgid "Header E-mail"
+msgstr ""
+
+#: inc/customizer/header-panel.php:116
+msgid "Header Phone"
+msgstr ""
+
+#: inc/customizer/header-panel.php:139
+msgid "Top Social Icons"
+msgstr ""
+
+#: inc/customizer/header-panel.php:140
+msgid "Show/hide option for Social Icons at top."
+msgstr ""
+
+#: inc/customizer/header-panel.php:159
+msgid "Additional Header Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:182
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/customizer/header-panel.php:183
+msgid "Enable/Disable header sticky option."
+msgstr ""
+
+#: inc/customizer/header-panel.php:186
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/header-panel.php:187
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/header-panel.php:211
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer/header-panel.php:212
+msgid "show/hide search icon at primary menu section."
+msgstr ""
+
+#. $id
+#: inc/metaboxes/page-metabox.php:16
+msgid "Page Options"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:29 inc/metaboxes/post-metabox.php:29
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:35 inc/metaboxes/post-metabox.php:35
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:41 inc/metaboxes/post-metabox.php:41
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:47 inc/metaboxes/post-metabox.php:47
+msgid "No sidebar Full width"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:53 inc/metaboxes/post-metabox.php:53
+msgid "No sidebar Content Centered"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:72 inc/metaboxes/post-metabox.php:72
+msgid "Information"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:73 inc/metaboxes/post-metabox.php:73
+msgid "Sidebars"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:80 inc/metaboxes/post-metabox.php:80
+msgid "About Metabox Options"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:82 inc/metaboxes/post-metabox.php:82
+msgid "At Metabox there are option for sidebars."
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:88 inc/metaboxes/post-metabox.php:88
+msgid "Available Sidebars"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:89 inc/metaboxes/post-metabox.php:89
+msgid ""
+"Select sidebar from available options which replaced sidebar layout from "
+"customizer settings."
+msgstr ""
+
+#. $id
+#: inc/metaboxes/post-metabox.php:16
+msgid "Post Options"
+msgstr ""
+
+#: inc/widgets/scholarship-call-to-action.php:23
+msgid "Display content as Call To Action."
+msgstr ""
+
+#: inc/widgets/scholarship-call-to-action.php:25
+msgid "Scholarship: Call To Action"
+msgstr ""
+
+#: inc/widgets/scholarship-call-to-action.php:38
+#: inc/widgets/scholarship-testimonials-widget.php:51
+msgid "Section Background Image"
+msgstr ""
+
+#: inc/widgets/scholarship-call-to-action.php:44
+msgid "Section Content"
+msgstr ""
+
+#: inc/widgets/scholarship-call-to-action.php:51
+msgid "Section Button Text"
+msgstr ""
+
+#: inc/widgets/scholarship-call-to-action.php:57
+msgid "Section Button Url"
+msgstr ""
+
+#: inc/widgets/scholarship-grid-layout.php:23
+msgid "Display posts from selected category as grid view."
+msgstr ""
+
+#: inc/widgets/scholarship-grid-layout.php:25
+msgid "Scholarship: Grid Items"
+msgstr ""
+
+#: inc/widgets/scholarship-grid-layout.php:38
+#: inc/widgets/scholarship-latest-blog-widget.php:40
+#: inc/widgets/scholarship-portfolio-widget.php:38
+#: inc/widgets/scholarship-sponsors-widget.php:39
+#: inc/widgets/scholarship-team-widget.php:38
+#: inc/widgets/scholarship-testimonials-widget.php:38
+msgid "Section Title"
+msgstr ""
+
+#: inc/widgets/scholarship-grid-layout.php:44
+#: inc/widgets/scholarship-latest-blog-widget.php:46
+#: inc/widgets/scholarship-portfolio-widget.php:44
+#: inc/widgets/scholarship-sponsors-widget.php:45
+#: inc/widgets/scholarship-team-widget.php:44
+#: inc/widgets/scholarship-testimonials-widget.php:44
+msgid "Section Info"
+msgstr ""
+
+#: inc/widgets/scholarship-grid-layout.php:51
+#: inc/widgets/scholarship-portfolio-widget.php:51
+#: inc/widgets/scholarship-sponsors-widget.php:52
+#: inc/widgets/scholarship-team-widget.php:51
+#: inc/widgets/scholarship-testimonials-widget.php:57
+msgid "Section Category"
+msgstr ""
+
+#: inc/widgets/scholarship-grid-layout.php:58
+#: inc/widgets/scholarship-latest-blog-widget.php:60
+#: inc/widgets/scholarship-portfolio-widget.php:58
+#: inc/widgets/scholarship-team-widget.php:58
+msgid "Section Post Count"
+msgstr ""
+
+#: inc/widgets/scholarship-latest-blog-widget.php:23
+msgid "Display latest posts except from selected categories."
+msgstr ""
+
+#: inc/widgets/scholarship-latest-blog-widget.php:25
+msgid "Scholarship: Latest Blog"
+msgstr ""
+
+#: inc/widgets/scholarship-latest-blog-widget.php:53
+msgid "Section Categories"
+msgstr ""
+
+#: inc/widgets/scholarship-latest-blog-widget.php:67
+msgid "Section button text"
+msgstr ""
+
+#: inc/widgets/scholarship-latest-blog-widget.php:92
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/scholarship-portfolio-widget.php:23
+msgid "Display posts from selected category show in fullwidth"
+msgstr ""
+
+#: inc/widgets/scholarship-portfolio-widget.php:25
+msgid "Scholarship: Portfolio"
+msgstr ""
+
+#: inc/widgets/scholarship-sponsors-widget.php:24
+msgid "Display posts from sponsors category"
+msgstr ""
+
+#: inc/widgets/scholarship-sponsors-widget.php:26
+msgid "Scholarship: Sponsors"
+msgstr ""
+
+#: inc/widgets/scholarship-team-widget.php:23
+msgid "Display posts from selected category show as team layout."
+msgstr ""
+
+#: inc/widgets/scholarship-team-widget.php:25
+msgid "Scholarship: Team Member"
+msgstr ""
+
+#: inc/widgets/scholarship-testimonials-widget.php:23
+msgid "Display posts from selected category as testimonials layout."
+msgstr ""
+
+#: inc/widgets/scholarship-testimonials-widget.php:25
+msgid "Scholarship: Testimonials"
+msgstr ""
+
+#: inc/widgets/scholarship-widget-areas.php:25
+#: inc/widgets/scholarship-widget-areas.php:40
+#: inc/widgets/scholarship-widget-areas.php:55
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/scholarship-widget-areas.php:53
+msgid "Homepage Section Area"
+msgstr ""
+
+#: inc/widgets/scholarship-widget-areas.php:68
+#, php-format
+msgid "Footer Area %d"
+msgstr ""
+
+#: inc/widgets/scholarship-widget-areas.php:70
+msgid "Added widgets are display at Footer Widget Area."
+msgstr ""
+
+#: inc/widgets/scholarship-widget-fields.php:120
+msgid "- - Select Category - -"
+msgstr ""
+
+#: inc/widgets/scholarship-widget-fields.php:162
+msgid "No image selected"
+msgstr ""
+
+#: inc/widgets/scholarship-widget-fields.php:169
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/scholarship-widget-fields.php:170
+msgid "Select Image"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Scholarship is a the Best Free WordPress Education Theme designed for "
+"university, college, school, online courses and other education related "
+"websites. Theme displays your site in the best possible way on smartphones, "
+"tablets, and laptops, as well as large desktop screens. The theme has a "
+"clean design with powerful features. Scholarship would be the best choice "
+"for anyone with an intent to promote education online. Launch your "
+"institutional site with the Scholarship education WordPress theme! We have "
+"great customer support via email, support forum. View full Demo here: http:"
+"//demo.mysterythemes.com/scholarship/ | Support: https://mysterythemes."
+"com/support/forum/themes/free-themes/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mysterythemes.com/wp-themes/scholarship/"
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com"
+msgstr ""
